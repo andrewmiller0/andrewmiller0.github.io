@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2014-11-01T19:03:10.770Z</updated>
+  <updated>2014-11-01T19:08:46.195Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -13,6 +13,20 @@
   </author>
   
   <generator uri="http://zespia.tw/hexo/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[Mailer Post]]></title>
+    <link href="http://yoursite.com/2014/11/01/Mailer-Post/"/>
+    <id>http://yoursite.com/2014/11/01/Mailer-Post/</id>
+    <published>2014-11-01T19:05:54.000Z</published>
+    <updated>2014-11-01T19:08:35.000Z</updated>
+    <content type="html"><![CDATA[<p>Just writing a post so that my hexo_mailer file will have something published within the last<br>7 days. The mailer is going well enough, I think.</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>Just writing a post so that my hexo_mailer file will have something published within the last<br>7 days. The mailer is going well enough,]]>
+    </summary>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[Why I code]]></title>
